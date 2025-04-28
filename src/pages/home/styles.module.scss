@@ -1,0 +1,11 @@
+.start-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .start-button {
+    min-width: 200px;
+  }
+}
